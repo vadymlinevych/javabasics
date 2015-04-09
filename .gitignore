@@ -1,0 +1,10 @@
+*.class
+target/
+out/
+logs/
+*.iws
+*.war
+*.jar
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/vcs.xml
