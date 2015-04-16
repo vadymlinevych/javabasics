@@ -17,8 +17,13 @@ public class Action extends Thread {
         AtomicInteger atomicInteger = new AtomicInteger();
         atomicInteger.set(acc.get());
 
-        if (atomicInteger.addAndGet(-withdraw) >= acc.limit) {
-            acc.set(atomicInteger.get());
+        //if (atomicInteger.addAndGet(-withdraw) >= acc.limit) {
+        //    acc.set(atomicInteger.get());
+        //}
+        int oldValue = acc.get();
+        if (!atomicInteger.compareAndSet(oldValue, oldValue - withdraw)) {
+            System.out.println("Sorry!");
+            return;
         }
     }
 }
