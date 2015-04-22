@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd15f1c6-c3f2-4b48-9b22-b0701d2bd58a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson03_Arrays/Lesson03_Arrays.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson03_ControlFlow/Lesson03_ControlFlow.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson03_OthersTask/Lesson03_OthersTask.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson04_Classes/Lesson04_Classes.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson08_Files/Lesson08_Files.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson08_Monitor/Lesson08_Monitor.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson09_IO/Lesson09_IO.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson10_EnumInnerClassesSerialization/Lesson10_EnumInnerClassesSerialization.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson02_VariablesAndTypes/Lesson02_VariablesAndTypes.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="7444b69f-5414-45a1-a115-4aa42bb882fd" name="Failed commit: Default" comment="new changes" />
@@ -206,6 +198,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="JavaCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson02_VariablesAndTypes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -730,7 +736,7 @@
       <workItem from="1429024277003" duration="14185000" />
       <workItem from="1429197274643" duration="8308000" />
       <workItem from="1429546691946" duration="602000" />
-      <workItem from="1429715837001" duration="8994000" />
+      <workItem from="1429715837001" duration="9086000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1427825267187</created>
@@ -882,11 +888,17 @@
       <option name="project" value="LOCAL" />
       <updated>1429729013217</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="new changes">
+      <created>1429729092010</created>
+      <option name="number" value="00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1429729092010</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122366000" />
+    <option name="totallyTimeSpent" value="122458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
