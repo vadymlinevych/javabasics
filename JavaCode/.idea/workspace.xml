@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bd15f1c6-c3f2-4b48-9b22-b0701d2bd58a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\JAVA\Projects\JavaCode\HomeWork\src\Lesson08_LinesReader\Events1.java" afterPath="$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/Events1.java" />
-      <change type="MOVED" beforePath="E:\JAVA\Projects\JavaCode\HomeWork\src\Lesson08_LinesReader\Events2.java" afterPath="$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/Events2.java" />
-      <change type="MOVED" beforePath="E:\JAVA\Projects\JavaCode\HomeWork\src\Lesson08_LinesReader\IEvents.java" afterPath="$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/IEvents.java" />
-      <change type="MOVED" beforePath="E:\JAVA\Projects\JavaCode\HomeWork\src\Lesson08_LinesReader\LinesReader.java" afterPath="$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/LinesReader.java" />
-      <change type="MOVED" beforePath="E:\JAVA\Projects\JavaCode\HomeWork\src\Lesson08_LinesReader\LinesReaderDemo.java" afterPath="$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/LinesReaderDemo.java" />
-      <change type="MOVED" beforePath="E:\JAVA\Projects\JavaCode\HomeWork\src\Lesson08_LinesReader\MyDemo.java" afterPath="$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/MyDemo.java" />
     </list>
     <list id="7444b69f-5414-45a1-a115-4aa42bb882fd" name="Failed commit: Default" comment="new changes" />
     <ignored path="JavaCode.iws" />
@@ -728,7 +722,7 @@
       <workItem from="1429024277003" duration="14185000" />
       <workItem from="1429197274643" duration="8308000" />
       <workItem from="1429546691946" duration="602000" />
-      <workItem from="1429715837001" duration="9423000" />
+      <workItem from="1429715837001" duration="9442000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1427825267187</created>
@@ -898,14 +892,20 @@
       <option name="project" value="LOCAL" />
       <updated>1429729238275</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="new changes">
+      <created>1429729525229</created>
+      <option name="number" value="00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1429729525229</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122795000" />
+    <option name="totallyTimeSpent" value="122814000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35130718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
