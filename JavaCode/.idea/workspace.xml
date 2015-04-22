@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd15f1c6-c3f2-4b48-9b22-b0701d2bd58a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson17_XML/Lesson17_XML.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\JAVA\Projects\JavaCode\HomeWork\src\Lesson08_LinesReader\Events1.java" afterPath="$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/Events1.java" />
+      <change type="MOVED" beforePath="E:\JAVA\Projects\JavaCode\HomeWork\src\Lesson08_LinesReader\Events2.java" afterPath="$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/Events2.java" />
+      <change type="MOVED" beforePath="E:\JAVA\Projects\JavaCode\HomeWork\src\Lesson08_LinesReader\IEvents.java" afterPath="$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/IEvents.java" />
+      <change type="MOVED" beforePath="E:\JAVA\Projects\JavaCode\HomeWork\src\Lesson08_LinesReader\LinesReader.java" afterPath="$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/LinesReader.java" />
+      <change type="MOVED" beforePath="E:\JAVA\Projects\JavaCode\HomeWork\src\Lesson08_LinesReader\LinesReaderDemo.java" afterPath="$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/LinesReaderDemo.java" />
+      <change type="MOVED" beforePath="E:\JAVA\Projects\JavaCode\HomeWork\src\Lesson08_LinesReader\MyDemo.java" afterPath="$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/MyDemo.java" />
     </list>
     <list id="7444b69f-5414-45a1-a115-4aa42bb882fd" name="Failed commit: Default" comment="new changes" />
     <ignored path="JavaCode.iws" />
@@ -201,20 +206,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson17_XML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -271,6 +262,7 @@
       <recent name="E:\JAVA\Projects\JavaCode\Lesson16_Synchronized\src\Task_04" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JAVA\Projects\JavaCode\Lesson08_LinesReader\src\Task_01" />
       <recent name="E:\JAVA\Projects\JavaCode\HomeWork\Lesson01" />
       <recent name="E:\JAVA\Projects\JavaCode\HomeWork" />
     </key>
@@ -736,7 +728,7 @@
       <workItem from="1429024277003" duration="14185000" />
       <workItem from="1429197274643" duration="8308000" />
       <workItem from="1429546691946" duration="602000" />
-      <workItem from="1429715837001" duration="9141000" />
+      <workItem from="1429715837001" duration="9423000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1427825267187</created>
@@ -900,11 +892,17 @@
       <option name="project" value="LOCAL" />
       <updated>1429729183019</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="new changes">
+      <created>1429729238275</created>
+      <option name="number" value="00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1429729238275</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122513000" />
+    <option name="totallyTimeSpent" value="122795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -924,7 +922,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22058824" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3494705" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23524962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1378,50 +1376,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/src/Lesson08_LinesReader/MyDemo.java">
+    <entry file="file://$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/MyDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="449">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/src/Lesson08_LinesReader/LinesReaderDemo.java">
+    <entry file="file://$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/LinesReaderDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.15144767" vertical-offset="0" max-vertical-offset="612">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/src/Lesson08_LinesReader/LinesReader.java">
+    <entry file="file://$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/LinesReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.15144767" vertical-offset="0" max-vertical-offset="459">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/src/Lesson08_LinesReader/IEvents.java">
+    <entry file="file://$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/IEvents.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="449">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.075723834" vertical-offset="0" max-vertical-offset="449">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/src/Lesson08_LinesReader/Events2.java">
+    <entry file="file://$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/Events2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.15144767" vertical-offset="0" max-vertical-offset="544">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/src/Lesson08_LinesReader/Events1.java">
+    <entry file="file://$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/Events1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="449">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.075723834" vertical-offset="0" max-vertical-offset="449">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>

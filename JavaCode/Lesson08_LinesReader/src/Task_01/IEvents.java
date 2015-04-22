@@ -1,4 +1,4 @@
-package Lesson09_LinesReader;
+package Task_01;
 
 public interface IEvents {
     void onNewLine(String line);

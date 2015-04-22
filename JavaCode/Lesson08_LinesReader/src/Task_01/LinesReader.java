@@ -1,4 +1,4 @@
-package Lesson08_LinesReader;
+package Task_01;
 
 import java.io.BufferedReader;
 import java.io.IOException;
