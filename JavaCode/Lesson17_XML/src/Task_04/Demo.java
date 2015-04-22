@@ -1,10 +1,9 @@
 package Task_04;
 
-import java.io.IOException;
-import java.io.RandomAccessFile;
-import java.util.Arrays;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import java.io.IOException;
+import java.io.RandomAccessFile;
 
 /**
  4. Распарсить следующую структуру данных:

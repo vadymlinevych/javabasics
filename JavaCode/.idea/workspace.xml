@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd15f1c6-c3f2-4b48-9b22-b0701d2bd58a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson17_XML/src/Task_04/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson17_XML/src/Task_04/Demo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson17_XML/src/Task_04/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_3_1_sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson17_XML/src/Task_04/Demo.java" afterPath="$PROJECT_DIR$/Lesson17_XML/src/Task_04/Demo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson17_XML/src/Task_03/Trains.java" afterPath="$PROJECT_DIR$/Lesson17_XML/src/Task_03/Trains.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="7444b69f-5414-45a1-a115-4aa42bb882fd" name="Failed commit: Default" comment="new changes" />
@@ -192,10 +192,6 @@
               <option name="myItemId" value="JavaCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -226,7 +222,7 @@
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/gson-2.3.1-sources.jar!/com" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Lesson01_HellowWorld/src" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
@@ -249,10 +245,13 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="829" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="LayoutCode.rearrangeEntriesXML" value="false" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -725,7 +724,7 @@
       <workItem from="1429024277003" duration="14185000" />
       <workItem from="1429197274643" duration="8308000" />
       <workItem from="1429546691946" duration="602000" />
-      <workItem from="1429715837001" duration="6060000" />
+      <workItem from="1429715837001" duration="7127000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1427825267187</created>
@@ -859,11 +858,17 @@
       <option name="project" value="LOCAL" />
       <updated>1429722853720</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="new changes">
+      <created>1429723983331</created>
+      <option name="number" value="00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1429723983331</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119432000" />
+    <option name="totallyTimeSpent" value="120499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -963,13 +968,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lesson14_Maps/src/Task_01/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5864811" vertical-offset="79" max-vertical-offset="663">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Java/jdk1.7.0_75/src.zip!/java/io/FileReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35785288" vertical-offset="619" max-vertical-offset="1122">
@@ -1280,12 +1278,12 @@
         <state vertical-scroll-proportion="0.5835189" vertical-offset="146" max-vertical-offset="952">
           <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#416#423#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#1232#1233#0" expanded="true" />
-            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#415#422#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#1231#1232#0" expanded="true" />
+            <element signature="e#1291#1292#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1334,10 +1332,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Java/jdk1.7.0_75/jre/lib/deploy.jar!/com/oracle/deploy/update/UpdateCheck.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2806604" vertical-offset="0" max-vertical-offset="1377">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#2641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson17_XML/src/Task_04/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41648108" vertical-offset="255" max-vertical-offset="799">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.2650334" vertical-offset="0" max-vertical-offset="782">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1396,7 +1404,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JavaCode</last-edited>
+          <last-edited>Lesson17_XML</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1408,6 +1416,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>gson-2.3.1-sources</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
