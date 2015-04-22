@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaCode.iml" filepath="$PROJECT_DIR$/JavaCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01_HellowWorld/Lesson01_HellowWorld.iml" filepath="$PROJECT_DIR$/Lesson01_HellowWorld/Lesson01_HellowWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson02_VariablesAndTypes/Lesson02_VariablesAndTypes.iml" filepath="$PROJECT_DIR$/Lesson02_VariablesAndTypes/Lesson02_VariablesAndTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson14_Maps/Lesson14_Maps.iml" filepath="$PROJECT_DIR$/Lesson14_Maps/Lesson14_Maps.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson15_Multithreading/Lesson15_Multithreading.iml" filepath="$PROJECT_DIR$/Lesson15_Multithreading/Lesson15_Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson16_Synchronized/Lesson16_Synchronized.iml" filepath="$PROJECT_DIR$/Lesson16_Synchronized/Lesson16_Synchronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson17_XML/Lesson17_XML.iml" filepath="$PROJECT_DIR$/Lesson17_XML/Lesson17_XML.iml" />
     </modules>
   </component>
 </project>
