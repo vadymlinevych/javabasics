@@ -1,32 +1,47 @@
 package Task_08;
 
 public class Car {
+    static public int count = 0;
+    protected String name;
+    protected Engine engine; // мотор
 
-    private String name;
-    private int speed;
+    public Car(String name) {
+        this.name = name;
+        engine = new Engine(0);
+        count++;
+    }
 
-    public void setName(String s) {
-        this.name = s;
+    public Car(String name, double mileage) {
+        this.name = name;
+        engine = new Engine(mileage);
+        count++;
     }
 
     public String getName() {
         return name;
     }
 
-    public void on() {
-        System.out.println(name + " The car switched on.");
+    public double getMileage() {
+        return engine.getMileage();
+    }
+// завести мотор
+
+
+    public void turnOn() {
+        engine.turnOn();
     }
 
-    public void off() {
-        System.out.println(name + " The car switched off.");
+    // заглушить мотор
+    public void turnOff() {
+        engine.turnOff();
     }
 
-    public void go() {
-        System.out.println(name + " The car is going.");
-    }
-
-    public void setSpeed(int speed) {
-        this.speed = speed;
-        System.out.println(name + " The car is going with the speed " + speed + " km per hour");
+    // установить скорость
+    public void start(int speed, double hours) {
+        if (!engine.isStarted()) // еще не заведен мотор
+         return;
+// пройденная дистанция
+        double distance = hours * speed;
+        engine.addMileage(distance);
     }
 }

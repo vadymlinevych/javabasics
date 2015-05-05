@@ -1,30 +1,28 @@
 package Task_08;
 
 /**
- 8. Добавить свойство «расход топлива» в класс Engine.
- Написать код для вывода потраченного топлива на экран.
+ * 8. Модифицировать пример Cars: добавить свойство «расход топлива»;
+ * написать код для вывода потраченного топлива на экран
  */
 public class Demo {
-    public static void main(String args[]) {
-
-        Car ford = new Car();
-        ford.setName("Ford");
-        System.out.println("1-st car - " + ford.getName() + "!");
-
-        ford.on();
-        ford.go();
-        ford.setSpeed(60);
-        ford.off();
-
-        System.out.println("");
-
-        Car toyota = new Car();
-        toyota.setName("Toyota");
-        System.out.println("2-nd car - " + toyota.getName() + "!");
-
-        toyota.on();
-        toyota.go();
-        toyota.setSpeed(120);
-        toyota.off();
+    public static void main(String[] args) {
+        try {
+            final Car bmw = new Car("BMW");
+            final Car ferrari = new Car("Ferrari", 20000);
+            bmw.turnOn();
+            ferrari.turnOn();
+            int[] speeds = {20, 60, 100};
+            for (int s : speeds) bmw.start(s, 0.5);
+            for (int s : speeds) ferrari.start(s, 1);
+/* for (int i = 0; i < speeds.length; i++) { int s = speeds[i]; bmw.start(s, 0.5); } */
+            bmw.turnOff();
+            ferrari.turnOff();
+            System.out.println("Cars count: " + Car.count);
+            System.out.println(bmw.getName() + ": " + bmw.getMileage());
+            System.out.println(ferrari.getName() + ": " + ferrari.getMileage());
+        } catch (Exception ex) {
+            System.out.println("Error!");
+        }
     }
+
 }
