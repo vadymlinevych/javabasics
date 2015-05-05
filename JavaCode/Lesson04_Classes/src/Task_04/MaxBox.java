@@ -1,8 +1,15 @@
-package Task_03;
+package Task_04;
 
 public class MaxBox {
     final int MAX_VALUE = 1024;
     private int value;
+
+    private MaxBox() {
+    }
+
+    static public MaxBox newInstance() {
+        return new MaxBox();
+    }
 
     public int getValue() {
         return value;
