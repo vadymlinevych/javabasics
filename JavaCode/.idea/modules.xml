@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassWork/ClassWork.iml" filepath="$PROJECT_DIR$/ClassWork/ClassWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCode.iml" filepath="$PROJECT_DIR$/JavaCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson01_HellowWorld/Lesson01_HellowWorld.iml" filepath="$PROJECT_DIR$/Lesson01_HellowWorld/Lesson01_HellowWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson02_VariablesAndTypes/Lesson02_VariablesAndTypes.iml" filepath="$PROJECT_DIR$/Lesson02_VariablesAndTypes/Lesson02_VariablesAndTypes.iml" />
