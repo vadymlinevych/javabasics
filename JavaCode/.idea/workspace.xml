@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd15f1c6-c3f2-4b48-9b22-b0701d2bd58a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson04_Classes/src/Task_08/Engine.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson04_Classes/src/Task_08/Car.java" afterPath="$PROJECT_DIR$/Lesson04_Classes/src/Task_08/Car.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson04_Classes/src/Task_08/Demo.java" afterPath="$PROJECT_DIR$/Lesson04_Classes/src/Task_08/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_03/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_04/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_06/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_08/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson05_Inheritance/Lesson05_Inheritance.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="7444b69f-5414-45a1-a115-4aa42bb882fd" name="Failed commit: Default" comment="new changes" />
@@ -50,12 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lesson17_XML/src/Task_03/Train.java" />
-        <option value="$PROJECT_DIR$/Lesson17_XML/src/Task_03/Trains.java" />
-        <option value="$PROJECT_DIR$/Lesson17_XML/src/Task_03/Demo.java" />
-        <option value="$PROJECT_DIR$/Lesson17_XML/src/Task_03/example.xml" />
-        <option value="$PROJECT_DIR$/Lesson17_XML/src/Task_04/Address.java" />
-        <option value="$PROJECT_DIR$/Lesson17_XML/src/Task_04/Person.java" />
         <option value="$PROJECT_DIR$/Lesson17_XML/src/Task_04/Demo.java" />
         <option value="$PROJECT_DIR$/Lesson02_VariablesAndTypes/src/Task_01/Demo.java" />
         <option value="$PROJECT_DIR$/Lesson02_VariablesAndTypes/src/Task_02/Demo.java" />
@@ -101,6 +100,12 @@
         <option value="$PROJECT_DIR$/Lesson04_Classes/src/Task_08/Engine.java" />
         <option value="$PROJECT_DIR$/Lesson04_Classes/src/Task_08/Car.java" />
         <option value="$PROJECT_DIR$/Lesson04_Classes/src/Task_08/Demo.java" />
+        <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_03/Demo.java" />
+        <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_04/Demo.java" />
+        <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/Demo.java" />
+        <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_06/Demo.java" />
+        <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/Demo.java" />
+        <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_08/Demo.java" />
       </list>
     </option>
   </component>
@@ -221,47 +226,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson04_Classes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson04_Classes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson04_Classes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Task_08" />
+              <option name="myItemId" value="Lesson05_Inheritance" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -744,7 +709,7 @@
       <workItem from="1429546691946" duration="602000" />
       <workItem from="1429715837001" duration="10040000" />
       <workItem from="1429805093753" duration="1015000" />
-      <workItem from="1430837176177" duration="6740000" />
+      <workItem from="1430837176177" duration="7220000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1427825267187</created>
@@ -962,11 +927,17 @@
       <option name="project" value="LOCAL" />
       <updated>1430848205005</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="new changes">
+      <created>1430848810122</created>
+      <option name="number" value="00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1430848810122</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131167000" />
+    <option name="totallyTimeSpent" value="131647000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -983,10 +954,10 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24019608" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24019608" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23524962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23524962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1066,48 +1037,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lesson03_ControlFlow/src/Task_03/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson03_ControlFlow/src/Task_04/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson03_OthersTask/src/Task_03/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson03_OthersTask/src/Task_04/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2346">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson03_OthersTask/src/Task_02/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2650334" vertical-offset="0" max-vertical-offset="816">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson10_EnumInnerClassesSerialization/src/Task_01_02_03/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1700">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson10_EnumInnerClassesSerialization/src/Task_01_02_03/Man.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
@@ -1449,14 +1378,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson04_Classes/src/Task_09/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75403225" vertical-offset="0" max-vertical-offset="496">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson04_Classes/src/Task_08/Engine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
@@ -1499,6 +1420,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21698113" vertical-offset="44" max-vertical-offset="578">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson04_Classes/src/Task_09/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29977116" vertical-offset="39" max-vertical-offset="476">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_03/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_04/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_06/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_08/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3112128" vertical-offset="0" max-vertical-offset="437">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           <folding />
         </state>
       </provider>
