@@ -1,6 +1,7 @@
-package Task_02;
+package Task_08;
 
-import java.util.Scanner;
+
+        import java.util.Scanner;
 
 /**
  * Найти в массиве число, которое повторяется наибольшее количество раз, не применяя сортировку.

@@ -3,7 +3,7 @@ package Task_03;
 import java.util.Arrays;
 
 /**
- Заполнить массив числами от 100 до 0
+ 3. Заполнить массив числами от 100 до 0
  */
 public class Demo {
     public static void main(String args[]){

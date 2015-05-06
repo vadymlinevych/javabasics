@@ -1,9 +1,9 @@
-package Task_04;
+package Task_10;
 
-import java.io.IOException;
-import java.util.Scanner;
+        import java.io.IOException;
+        import java.util.Scanner;
 
-/**
+/** 10
  * Написать консольную игру «Крестики нолики» используя двухмерные массивы
  */
 
