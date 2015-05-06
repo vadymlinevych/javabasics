@@ -1,10 +1,10 @@
-package Task_04;
+package Task_07;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- Среднее арифметическое элементов массива.
+ 7. Среднее арифметическое элементов массива.
  */
 public class Demo {
 

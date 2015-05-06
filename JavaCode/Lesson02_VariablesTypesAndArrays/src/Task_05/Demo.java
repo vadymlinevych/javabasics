@@ -1,11 +1,11 @@
-package Task_06;
+package Task_05;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- Упражнение «Калькулятор Четырех Операций»
+ 5. Упражнение «Калькулятор Четырех Операций»
     a) Прочитать с консоли число 1
     b) Прочитать с консоли число 2
     c) Вывести сумму, разность, произведение и частное введенных чисел.

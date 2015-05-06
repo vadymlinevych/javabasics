@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/HomeWork/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ClassWork/Taks5" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ClassWork/Task13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson02_VariablesTypesArrays/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/HomeWork/src/Lesson08_LinesReader" />
     </content>
     <orderEntry type="inheritedJdk" />
