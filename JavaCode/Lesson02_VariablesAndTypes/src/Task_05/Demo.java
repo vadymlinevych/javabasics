@@ -1,11 +1,11 @@
-package Task_02;
+package Task_05;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- Упражнение «Конкатенация строк»
+ 5. Упражнение «Конкатенация строк»
  a) Прочитать 3 строки  в переменные s1, s2, s3
  b) Вывести на экран конкатенацию: 1. S1 + s3 2. S3 + s2 + s1 3. S1 + s2 + s3
 
