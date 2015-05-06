@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd15f1c6-c3f2-4b48-9b22-b0701d2bd58a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/Demo.java" afterPath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/Developer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/JuniorDeveloper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/SeniorDeveloper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/TeamLead.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_06/Demo.java" afterPath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_06/Demo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/Demo.java" afterPath="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/Demo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="7444b69f-5414-45a1-a115-4aa42bb882fd" name="Failed commit: Default" comment="new changes" />
@@ -40,7 +45,18 @@
     <favorites_list name="JavaCode" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.079896905" vertical-offset="207" max-vertical-offset="612">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -48,11 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lesson03_ControlFlow/src/Task_03/Demo.java" />
-        <option value="$PROJECT_DIR$/Lesson03_ControlFlow/src/Task_04/Demo.java" />
-        <option value="$PROJECT_DIR$/Lesson03_OthersTask/src/Task_01/Demo.java" />
-        <option value="$PROJECT_DIR$/Lesson03_OthersTask/src/Task_03/Demo.java" />
-        <option value="$PROJECT_DIR$/Lesson03_OthersTask/src/Task_04/Demo.java" />
         <option value="$PROJECT_DIR$/Lesson10_EnumInnerClassesSerialization/src/Task_01_02_03/Demo.java" />
         <option value="$PROJECT_DIR$/Lesson10_EnumInnerClassesSerialization/src/Task_01_02_03/Man.java" />
         <option value="$PROJECT_DIR$/Lesson10_EnumInnerClassesSerialization/src/Task_01_02_03/Sex.java" />
@@ -81,8 +92,6 @@
         <option value="$PROJECT_DIR$/Lesson04_Classes/src/Task_08/Engine.java" />
         <option value="$PROJECT_DIR$/Lesson04_Classes/src/Task_08/Car.java" />
         <option value="$PROJECT_DIR$/Lesson04_Classes/src/Task_08/Demo.java" />
-        <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_06/Demo.java" />
-        <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/Demo.java" />
         <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_08/Demo.java" />
         <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_03/Figure.java" />
         <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_03/Demo.java" />
@@ -99,6 +108,13 @@
         <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/Nokia3310.java" />
         <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/Demo.java" />
         <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/Phone.java" />
+        <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_06/Demo.java" />
+        <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/TeamLead.java" />
+        <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/Developer.java" />
+        <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/JuniorDeveloper.java" />
+        <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/SeniorDeveloper.java" />
+        <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/TeamLeadDeveloper.java" />
+        <option value="$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/Demo.java" />
       </list>
     </option>
   </component>
@@ -261,7 +277,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task_05" />
+              <option name="myItemId" value="Task_07" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -335,28 +351,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Demo (2)">
-    <configuration default="false" name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Task_09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Task_09.Demo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Lesson04_Classes" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="Demo (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -431,6 +425,28 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Task_05.Demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Lesson05_Inheritance" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Task_07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Task_07.Demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -690,19 +706,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Demo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Demo (5)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Demo (4)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Demo (1)" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Demo (2)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Demo (5)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Demo (4)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Demo (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Demo (2)" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Demo (3)" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.Demo (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Demo (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Demo (4)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Demo (5)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Demo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Demo (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Demo (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Demo (4)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Demo (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -743,7 +759,7 @@
       <workItem from="1429715837001" duration="10040000" />
       <workItem from="1429805093753" duration="1015000" />
       <workItem from="1430837176177" duration="9668000" />
-      <workItem from="1430927278775" duration="1136000" />
+      <workItem from="1430927278775" duration="2151000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1427825267187</created>
@@ -985,15 +1001,27 @@
       <option name="project" value="LOCAL" />
       <updated>1430851753575</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="new changes">
+      <created>1430928421594</created>
+      <option name="number" value="00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1430928421594</updated>
+    </task>
+    <task id="LOCAL-00042" summary="new changes">
+      <created>1430928455812</created>
+      <option name="number" value="00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1430928455812</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135231000" />
+    <option name="totallyTimeSpent" value="136246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35130718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1009,7 +1037,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32026145" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23524962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23524962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1089,41 +1117,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lesson08_Files/src/Task_01/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2650334" vertical-offset="0" max-vertical-offset="646">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson08_Files/src/Task_02/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="436">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson08_Monitor/src/Task_01/Monitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5523385" vertical-offset="0" max-vertical-offset="850">
-          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson08_Monitor/src/Task_01/MonitorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.075723834" vertical-offset="0" max-vertical-offset="449">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/MyDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson08_LinesReader/src/Task_01/LinesReaderDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15144767" vertical-offset="0" max-vertical-offset="612">
@@ -1306,20 +1299,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_06/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_08/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3112128" vertical-offset="0" max-vertical-offset="437">
@@ -1399,48 +1378,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/IPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/IPhone5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/Nokia3310.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="595">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson14_Maps/src/Task_01/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="663">
@@ -1457,10 +1394,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_06/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3943299" vertical-offset="0" max-vertical-offset="388">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/SeniorDeveloper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/TeamLead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30670103" vertical-offset="0" max-vertical-offset="388">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/Developer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.082474224" vertical-offset="2" max-vertical-offset="476">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/JuniorDeveloper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3943299" vertical-offset="0" max-vertical-offset="388">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/Nokia3310.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/IPhone5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.043814432" vertical-offset="17" max-vertical-offset="459">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/IPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05154639" vertical-offset="14" max-vertical-offset="476">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0077319" vertical-offset="0" max-vertical-offset="561">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_05/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56958765" vertical-offset="0" max-vertical-offset="595">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.26288658" vertical-offset="51" max-vertical-offset="595">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05_Inheritance/src/Task_07/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.079896905" vertical-offset="207" max-vertical-offset="612">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
           <folding />
         </state>
       </provider>
