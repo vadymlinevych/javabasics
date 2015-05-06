@@ -11,10 +11,12 @@
       <module fileurl="file://$PROJECT_DIR$/Lesson03_ControlFlow/Lesson03_ControlFlow.iml" filepath="$PROJECT_DIR$/Lesson03_ControlFlow/Lesson03_ControlFlow.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson04_Classes/Lesson04_Classes.iml" filepath="$PROJECT_DIR$/Lesson04_Classes/Lesson04_Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson05_Inheritance/Lesson05_Inheritance.iml" filepath="$PROJECT_DIR$/Lesson05_Inheritance/Lesson05_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson06_InterfacesAndExceptions/Lesson06_InterfacesAndExceptions.iml" filepath="$PROJECT_DIR$/Lesson06_InterfacesAndExceptions/Lesson06_InterfacesAndExceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson08_Files/Lesson08_Files.iml" filepath="$PROJECT_DIR$/Lesson08_Files/Lesson08_Files.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson08_LinesReader/Lesson08_LinesReader.iml" filepath="$PROJECT_DIR$/Lesson08_LinesReader/Lesson08_LinesReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson08_Monitor/Lesson08_Monitor.iml" filepath="$PROJECT_DIR$/Lesson08_Monitor/Lesson08_Monitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson09_IO/Lesson09_IO.iml" filepath="$PROJECT_DIR$/Lesson09_IO/Lesson09_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson09_JavaLangObject/Lesson09_JavaLangObject.iml" filepath="$PROJECT_DIR$/Lesson09_JavaLangObject/Lesson09_JavaLangObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson10_EnumInnerClassesSerialization/Lesson10_EnumInnerClassesSerialization.iml" filepath="$PROJECT_DIR$/Lesson10_EnumInnerClassesSerialization/Lesson10_EnumInnerClassesSerialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson14_Maps/Lesson14_Maps.iml" filepath="$PROJECT_DIR$/Lesson14_Maps/Lesson14_Maps.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson15_Multithreading/Lesson15_Multithreading.iml" filepath="$PROJECT_DIR$/Lesson15_Multithreading/Lesson15_Multithreading.iml" />
